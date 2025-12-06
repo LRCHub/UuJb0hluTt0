@@ -1,0 +1,90 @@
+# Ayumu Imazu – Obsessed
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+"You got to let go"
+Maybe it's a little too late
+'Cause I already put my all
+to thetable
+Everything about me
+from the get go
+There goes another love song
+Hate that it's becoming
+my usual
+Taking things slow
+I just can't control
+Baby I'm incapable of it
+Then one day (You show up)
+You show up like heaven
+sent you here
+So I say (Hello)
+how you doin' nice to meet you
+All my friends (No no) are
+telling me
+she might be bad news
+Now I can't go back
+Yeah you know
+I'm caught up in you
+I get obsessed so easily
+Like honestly wtf is wrong
+with me
+I go two nights out with a girl
+And I think I'm in love
+Why do I fall so easily
+Or is it that she's so perfect
+for me
+I can't keep on meeting
+the love of my life like this
+But I guess I'm obsessed
+with you
+Think I'm doing better
+Took a little
+but I got my head on (straight)
+Finally takin a good care
+of me myself and
+I don't wanna wait no more
+Trying everything
+I can like meditating
+Keeping myself busy down
+to every second
+So I don't have time
+to fantasize
+What could've been like
+you and I
+But then again (You show up)
+You show up like heaven
+sent you here
+So I say (Hello)
+how you doin' nice to meet you
+Is all the blame on me
+'cause you can't deny
+your natural beauty
+Now I can't go back
+Yeah you know I'm caught up
+in you
+I get obsessed so easily
+Like honestly wtf is wrong
+with me
+I go two nights out with a girl
+And I think I'm in love
+Why do I fall so easily
+Or is it that she's so perfect
+for me
+I can't keep on meeting
+the love of my life like this
+But I guess I'm obsessed
+with you
+I get obsessed so easily
+Like honestly wtf is wrong
+with me
+I go two nights out with a girl
+And I think I'm in love
+And Why do I fall so easily
+Or is it that she's so perfect
+for me
+I can't keep on meeting
+the love of my life like this
+But I guess I'm obsessed
+with you
+```

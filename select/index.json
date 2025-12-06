@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Obsessed",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2025-12-06T16:55:32.216894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Obsessed",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/01_Obsessed_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Obsessed - Cahill Radio Mix",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/02_Obsessed_-_Cahill_Radio_Mix_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Obsessed (Cahill Radio Mix)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/03_Obsessed_(Cahill_Radio_Mix)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Obsessed - Friscia and Lamboy Radio Mix",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_Obsessed_-_Friscia_and_Lamboy_Radio_Mix_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Obsessed (Friscia And Lamboy Radio Mix)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/05_Obsessed_(Friscia_And_Lamboy_Radio_Mix)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Obsessed - Jump Smokers Radio Edit",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/06_Obsessed_-_Jump_Smokers_Radio_Edit_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Obsessed (Jump Smokers Radio Edit)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/07_Obsessed_(Jump_Smokers_Radio_Edit)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Obsessed - Seamus Haji & Paul Emanuel Radio Edit",
+      "artist": "Mariah Carey",
+      "has_synced": false,
+      "path": "select/08_Obsessed_-_Seamus_Haji_&_Paul_Emanuel_Radio_Edit_Mariah_Carey.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Obsessed (Seamus Haji & Paul Emanuel Radio Edit)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/09_Obsessed_(Seamus_Haji_&_Paul_Emanuel_Radio_Edit)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Obsessed With You",
+      "artist": "Central Cee",
+      "has_synced": true,
+      "path": "select/10_Obsessed_With_You_Central_Cee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Obsessed",
+      "artist": "Astrid S",
+      "has_synced": true,
+      "path": "select/11_Obsessed_Astrid_S.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Obsessed",
+      "artist": "Hatchie",
+      "has_synced": true,
+      "path": "select/12_Obsessed_Hatchie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Obsessed",
+      "artist": "Brutality",
+      "has_synced": true,
+      "path": "select/13_Obsessed_Brutality.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Obsessed",
+      "artist": "Sepultura",
+      "has_synced": false,
+      "path": "select/14_Obsessed_Sepultura.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Obsessed by the Grave",
+      "artist": "Legion of the Damned",
+      "has_synced": true,
+      "path": "select/15_Obsessed_by_the_Grave_Legion_of_the_Damned.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Self Obsessed",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/16_Self_Obsessed_Paradise_Lost.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Obsessed",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_Obsessed_Ayumu_Imazu.txt"
+    }
+  ]
+}
